@@ -2,4 +2,4 @@
 # My Physics Apps
 
 ## Kinematix game, 1D 
-[Open App](https://github.com/matiaharon00-alt/1D-kinematics/releases/download/ver1/kinematics.html)
+[Open App](https://github.com/matiaharon00-alt/kinematics 1D)
