@@ -1,4 +1,4 @@
-![Physics Apps Banner](physics_banner.png)
+![Physics Apps Banner](matimatix.png)
 
 # My Physics Apps
 ## Mechanics games
