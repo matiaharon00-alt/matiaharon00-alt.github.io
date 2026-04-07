@@ -1,18 +1,41 @@
-# My Physics Apps will all be here
-# My Physics Apps
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Physics Apps</title>
+    <style>
+        body {
+            background-color: #333;
+            color: white;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
 
-## Mechanics games:
+        a {
+            color: #66ccff;
+        }
 
-### Kinematix game, 1D 
-[Open App](https://matiaharon00-alt.github.io/kinematics-1D/)
+        img {
+            width: 100%;
+            max-width: 800px;
+            display: block;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
 
-### Newton's second law game
-[Open App](https://matiaharon00-alt.github.io/Newton-second-law/)
+    <img src="physics_banner.png" alt="Physics Apps Banner">
 
-## Electricity and magnetism games
+    <h1>My Physics Apps</h1>
 
-### Particle accelarator - Homogeneous electric field
-[Open App](https://matiaharon00-alt.github.io/Particle-accelarator/)
+    <h2>Mechanics games</h2>
 
-### Lorentz force simulation
-[Open App](https://matiaharon00-alt.github.io/Lorentz-force/)
+    <h2>Electricity and magnetism games</h2>
+
+    <h3>DC electric circuit builder</h3>
+    <a href="https://matiaharon00-alt.github.io/Electric-circuit-builder/">
+        Open App
+    </a>
+
+</body>
+</html>
