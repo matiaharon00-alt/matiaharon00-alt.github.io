@@ -1,4 +1,4 @@
-<img src="matimatix.png" width="70%">
+<img src="matimatix.png" width="60%">
 
 # My Physics Apps
 ## Mechanics games
