@@ -1,4 +1,4 @@
-![Physics Apps Banner](matimatix.png)
+<img src="matimatix.png" width="70%">
 
 # My Physics Apps
 ## Mechanics games
